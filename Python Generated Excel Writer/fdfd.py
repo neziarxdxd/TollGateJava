@@ -1,8 +1,8 @@
 import xlrd
 d = {}
-f = open("D:\\New folder\\database2.txt", "w")
+f = open("D:\\New folder\\Class2Hashes.txt", "w")
 wb = xlrd.open_workbook('D:\\New folder\\Book1.xlsx')
-sh = wb.sheet_by_index(0) 
+sh = wb.sheet_by_index(1) 
 x=len(sh.col_values(0))-1
 y = len(sh.row_values(0))-1
 for i in range(x):
@@ -14,17 +14,3 @@ for i in range(x):
         
         f.write("hash.put("+"\""+start+"-"+destination+"\""+':'+str(value_Price[j+1])+")\n")
 f.close()
-
-    
-
-
-# for i in range(25):
-#     cell_value_class = sh.cell(i,0).value    
-#     print(cell_value_class)
-#     for i in range()
-#     d[cell_value_class] = "a";
-#     # cell_value_id = sh.cell(i,0).value
-#     # d[cell_value_class] = cell_value_id
-# print(d)
-
- #print(list(filter(None,sh.row_values(0) )))
