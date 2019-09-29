@@ -1,8 +1,8 @@
 import xlrd
 d = {}
-f = open("D:\\New folder\\Class2Hashes.txt", "w")
+f = open("D:\\New folder\\Class3Hashes.txt", "w")
 wb = xlrd.open_workbook('D:\\New folder\\Book1.xlsx')
-sh = wb.sheet_by_index(1) 
+sh = wb.sheet_by_index(2) 
 x=len(sh.col_values(0))-1
 y = len(sh.row_values(0))-1
 for i in range(x):
