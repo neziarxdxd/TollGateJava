@@ -1,8 +1,9 @@
 # Toll Gate using Java and Python
 ### Table of Contents  
 [1 -  Features of this Application ](#head1)  
-[1 - User Guidelines](#head2)  
-[1 - Java as Technology for this Software](#head3)  
+[2 - How to Install](#head2)
+[3 - User Guidelines](#head3) 
+[4 - Java as Technology for this Software](#head4)  
 
   
 
@@ -11,12 +12,23 @@
 <a name="head1"/></a>
 ## Features of this Application 
 
+
+![alt text](https://github.com/raizengxd/TollGateJava/blob/master/Image_file.PNG)
+
 1. It has step by step label in order for user to guide them in using it 
 2. It has information section to know their Class Vehicles and their Data as well 
 3. It has color buttons in order to know what they will press
 *NOTE: Human eye treats the Green as active or success, while color yellow is for medium or reset while color red is warning the UI developer intend this color category for the users who has eye defect wherein it is hard for them to read texts*
 
-<a name="head2"/></a>
+<a name="head3"/></a>
+## How to install 
+Just download the jar file and you can use it :>
+
+<a href="https://github.com/raizengxd/TollGateJava/blob/master/Toll%20Gate%20System.jar">DOWNLOAD HERE</a>
+
+*make sure that you have Java Machine in your device *
+
+<a name="head3"/></a>
 ## User Guidelines
 1. Users add their name first 
 2. Second they will choose what is the classification of their vehicle
@@ -25,7 +37,7 @@
 
 
 
-<a name="head3"/></a>
+<a name="head4"/></a>
 ## 1. Java as Technology for this Software 
 
  
