@@ -63,5 +63,52 @@ Through the help of the Java Collection HashMap we come up with the fast memory 
 ### 4.3 Easy to edit 
 Java is a beginner friendly programming language that everyone can code it too. So that's why this is a open source software that can help to improve it to make it more user friendly and fast
  
+## 5 - DEVELOPMENT 
+### 5.1 - HashMap
+HashMap is a Map based collection class that is used for storing Key & value pairs, it is denoted as HashMap<Key, Value> or HashMap<K, V>. This class makes no guarantees as to the order of the map. It is similar to the Hashtable class except that it is unsynchronized and permits nulls(null values and null key).
+
+```
+
+import java.util.HashMap;
+
+HashMap hash = new HashMap();
+hash.put("MIN-BWK",165.0);
+```
+### 5.2 Java Swing 
+Swing is a GUI widget toolkit for Java. It is part of Oracle's Java Foundation Classes – an API for providing a graphical user interface for Java programs. Swing was developed to provide a more sophisticated set of GUI components than the earlier Abstract Window Toolkit
+
+### 5.3 Python Integration for hashes 
+
+Using XLRD to read the excel file 
+
+Instead of using array we use hashes to make it fast and optimized 
+
+**PROBLEM**: It is time consuming to type all those data one by one so we come up to generate it with excel to python plus write it with 
+
+```
+hash.put("MIN-BWK",165.0);
+
+```
+
+```
+import xlrd
+
+
+f = open("C:\\Users\\MY-PC\\Desktop\\TollGateJava\\tbl_Class3.txt", "w")
+wb = xlrd.open_workbook('D:\\New folder\\Book1.xlsx')
+sh = wb.sheet_by_index(2) 
+x=len(sh.col_values(0))-1
+y = len(sh.row_values(0))-1
+for i in range(x):
+    lenx= len(list(filter(None,sh.row_values(i+1) )))
+    for j in range(lenx-1):
+        start = sh.cell(i+1,0).value
+        destination = sh.cell(0,j+1).value
+        value_Price = sh.row_values(i+1)
+        
+        f.write("hash.put("+"\""+start+"-"+destination+"\""+','+str(value_Price[j+1])+");\n")
+f.close()
+
+```
 
 
