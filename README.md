@@ -1,8 +1,11 @@
 # Toll Gate using Java and Python
 ### Table of Contents  
 [1 -  Features of this Application ](#head1)  
+
 [2 - How to Install](#head2)
+
 [3 - User Guidelines](#head3) 
+
 [4 - Java as Technology for this Software](#head4)  
 
   
