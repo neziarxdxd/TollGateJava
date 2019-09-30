@@ -13,5 +13,5 @@ for i in range(x):
         destination = sh.cell(0,j+1).value
         value_Price = sh.row_values(i+1)
         
-        f.write("hash.put("+"\""+start+"-"+destination+"\""+':'+str(value_Price[j+1])+");\n")
+        f.write("hash.put("+"\""+start+"-"+destination+"\""+','+str(value_Price[j+1])+");\n")
 f.close()

@@ -23,6 +23,3 @@ jComboBox2.addItem("Sta. Rita ");
 jComboBox2.addItem("TIPO/SFEX");
 jComboBox2.addItem("Valenzuela");
 jComboBox2.addItem("Tarlac");
-jComboBox2.addItem("");
-jComboBox2.addItem("");
-jComboBox2.addItem("");
