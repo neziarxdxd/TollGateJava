@@ -8,25 +8,24 @@
 
 
 
-<a name="head1"/>
-## Features of this Application</a> 
+<a name="head1"/></a>
+
 
 1. It has step by step label in order for user to guide them in using it 
 2. It has information section to know their Class Vehicles and their Data as well 
 3. It has color buttons in order to know what they will press
 *NOTE: Human eye treats the Green as active or success, while color yellow is for medium or reset while color red is warning the UI developer intend this color category for the users who has eye defect wherein it is hard for them to read texts*
 
-<a name="head2"/>
-## User Guidelines
+<a name="head2"/></a>
+
 1. Users add their name first 
 2. Second they will choose what is the classification of their vehicle
 3. User can choose the location that they want 
 *If the user has innapporiate action the system or the program will warning them* 
 
 
-<a name="head3"/>
-## 1. Java as Technology for this Software 
-<a name="head1"/>
+<a name="head3"/></a>
+
  
 ### 1.1 - GUI 
 
