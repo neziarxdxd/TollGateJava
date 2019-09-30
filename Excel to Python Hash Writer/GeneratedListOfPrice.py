@@ -1,5 +1,5 @@
 import xlrd
-d = {}
+
 
 f = open("C:\\Users\\MY-PC\\Desktop\\TollGateJava\\tbl_Class3.txt", "w")
 wb = xlrd.open_workbook('D:\\New folder\\Book1.xlsx')
