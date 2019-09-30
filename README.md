@@ -23,7 +23,7 @@
 3. It has color buttons in order to know what they will press
 *NOTE: Human eye treats the Green as active or success, while color yellow is for medium or reset while color red is warning the UI developer intend this color category for the users who has eye defect wherein it is hard for them to read texts*
 
-<a name="head3"/></a>
+<a name="head2"/></a>
 ## How to install 
 Just download the jar file and you can use it :>
 
