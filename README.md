@@ -8,6 +8,8 @@
 
 [4 - Java as Technology for this Software](#head4)  
 
+[5 - Development](#head5)  
+
   
 
 
@@ -63,6 +65,8 @@ Through the help of the Java Collection HashMap we come up with the fast memory 
 ### 4.3 Easy to edit 
 Java is a beginner friendly programming language that everyone can code it too. So that's why this is a open source software that can help to improve it to make it more user friendly and fast
  
+ 
+<a name="head5"/></a> 
 ## 5 - DEVELOPMENT 
 ### 5.1 - HashMap
 HashMap is a Map based collection class that is used for storing Key & value pairs, it is denoted as HashMap<Key, Value> or HashMap<K, V>. This class makes no guarantees as to the order of the map. It is similar to the Hashtable class except that it is unsynchronized and permits nulls(null values and null key).
