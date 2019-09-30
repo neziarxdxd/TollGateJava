@@ -8,8 +8,9 @@
 
 
 <a name="head1"/>
-## 1 - Java as Technology for this Software 
-
+## 1. Java as Technology for this Software 
+<a name="head1"/>
+ 
 ### 1.1 - GUI 
 
 We integrate GUI (Graphical User Interface) to make it accesible and easy to use for the user of this software with the study of research in UI and UX we come up with the easy to use buttons, lessen the hassle of reading information plus the integration of user friendly experience 
