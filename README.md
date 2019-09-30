@@ -9,7 +9,7 @@
 
 
 <a name="head1"/>
-## Features of this Application 
+## Features of this Application</a> 
 
 1. It has step by step label in order for user to guide them in using it 
 2. It has information section to know their Class Vehicles and their Data as well 
