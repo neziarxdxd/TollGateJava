@@ -35,7 +35,7 @@ Just download the jar file and you can use it :>
 *make sure that you have Java Machine in your device *
 
 <a name="head3"/></a>
->>>>>>> d9b473c086071463b822af7402a28987c15f5d2d
+
 ## User Guidelines
 1. Users add their name first 
 2. Second they will choose what is the classification of their vehicle
