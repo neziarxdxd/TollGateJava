@@ -1,6 +1,6 @@
 # Toll Gate using Java and Python
 ### Table of Contents  
-[Headers](#head1)  
+[1 - Java as Technology for this Software](#head1)  
 [Emphasis](#emphasis)  
 ...snip...    
 <a name="headers"/>
