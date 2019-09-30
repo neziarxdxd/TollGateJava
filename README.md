@@ -1,6 +1,13 @@
 # Toll Gate using Java and Python
+### Table of Contents  
+[Headers](#head1)  
+[Emphasis](#emphasis)  
+...snip...    
+<a name="headers"/>
 
 
+
+<a name="head1"/>
 ## 1 - Java as Technology for this Software 
 
 ### 1.1 - GUI 
@@ -16,11 +23,5 @@ Java is a beginner friendly programming language that everyone can code it too. 
 
 
 
-##### Table of Contents  
-[Headers](#headers)  
-[Emphasis](#emphasis)  
-...snip...    
-<a name="headers"/>
-## Headers
 
 
