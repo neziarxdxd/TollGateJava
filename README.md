@@ -117,3 +117,21 @@ f.close()
 ```
 
 ## 6 - Folders and Description
+
+### 6.1 Source code 
+<a href = "https://github.com/raizengxd/TollGateJava/tree/master/Source%20Code/JavaApplication3"> All Java Files  </a>
+
+
+<a href="https://github.com/raizengxd/TollGateJava/tree/master/Source%20Code/JavaApplication3/src/javaapplication3" > Java Main Files for editing </a>
+
+### 6.2 Python Generated App 
+<a href ="https://github.com/raizengxd/TollGateJava/tree/master/Excel%20to%20Python%20Hash%20Writer"> Python Files </a>
+
+
+*It contains Excel files, Text output and the Python generator*
+
+### 6.3 Java Excess Files for Old Reference 
+
+This contain the files that have been created but they are meant only for references 
+
+
