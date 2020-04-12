@@ -1,8 +1,8 @@
 # Toll Gate System using 
-[![forthebadge made-with-java(http://ForTheBadge.com/images/badges/made-with-java.svg)](https://www.python.org/)
+[![forthebadge made-with-java(http://ForTheBadge.com/images/badges/made-with-java.svg)](#)
 
 
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](#)
 
 
 ### Table of Contents  
