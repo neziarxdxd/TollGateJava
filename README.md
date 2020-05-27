@@ -16,7 +16,7 @@
 
 [5 - Development](#head5)  
 
-[6 - Folders and Description ](#head6)  
+[6 - Folders and Description details ](#head6)  
   
 
 
